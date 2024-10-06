@@ -22,8 +22,12 @@ programming language: python
 
 specific tools and software:
 - python virtual environments
-specific libraries:
+- 
+specific libraries:  
 - os - Miscellaneous operating system interfaces
 - PyTorch - Tensor computation (like NumPy) with strong GPU acceleration
 - OpenCV - solve computer vision problems
 - Matplotlib - comprehensive library for creating static, animated, and interactive visualizations in Python
+
+##Gallery
+![alt text](https://github.com/catalin96n/face-detection/blob/main/Figure_1.png?raw=true)
