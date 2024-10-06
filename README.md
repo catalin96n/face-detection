@@ -13,18 +13,18 @@ full project title: _Face Detection using Tensors* and Keypoints**_
 - compute image keypoints 
 - automatically identify new face images and add them to the face database accordingly
 
-## Info
+## More Info
 
 project language: english  
 author: Necula Cătălin  
 year: 2024  
 programming language: python
 
-specific tools and software:
+**Specific tools and software:**  
 - python virtual environments
 
-specific libraries:  
-- os - Miscellaneous operating system interfaces
+**Specific libraries:**  
+- OS - Miscellaneous operating system interfaces
 - PyTorch - Tensor computation (like NumPy) with strong GPU acceleration
 - OpenCV - solve computer vision problems
 - Matplotlib - comprehensive library for creating static, animated, and interactive visualizations in Python
