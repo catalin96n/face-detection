@@ -1,5 +1,5 @@
-# Face detection _(work in progress)_
-full project title: _Face Detection using Tensors* and Keypoints**_  
+# Face recognition _(work in progress)_
+full project title: _Face Recognition using Tensors* and Keypoints**_  
 *Tensor = _n_-dimmenisonal array  
 **Keypoints = interest points in images
 
