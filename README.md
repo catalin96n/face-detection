@@ -17,7 +17,7 @@ full project title: _Face Detection using Tensors* and Keypoints**_
 
 project language: english  
 author: Necula Cătălin  
-year: 2024
+year: 2024  
 programming language: python
 
 specific tools and software:
