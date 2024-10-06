@@ -1,6 +1,6 @@
 # Face detection _(work in progress)_
 full project title: _Face Detection using Tensors* and Keypoints**_  
-*Tensor = _n_-dimmenisonal array
+*Tensor = _n_-dimmenisonal array  
 **Keypoints = interest points in images
 
 ## Objectives
